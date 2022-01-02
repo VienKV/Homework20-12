@@ -1,4 +1,4 @@
-package vn.hust.edu.internetexamples;
+package vn.hust.edu.homeworkw13;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("vn.hust.edu.internetexamples", appContext.getPackageName());
+        assertEquals("vn.hust.edu.homeworkw13", appContext.getPackageName());
     }
 }

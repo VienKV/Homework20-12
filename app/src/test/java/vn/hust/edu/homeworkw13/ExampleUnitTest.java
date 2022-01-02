@@ -1,4 +1,4 @@
-package vn.hust.edu.internetexamples;
+package vn.hust.edu.homeworkw13;
 
 import org.junit.Test;
 
